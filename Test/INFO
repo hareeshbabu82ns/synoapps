@@ -1,0 +1,5 @@
+package="Test Pkg"
+version="0.1"
+maintainer="Hareesh Polla"
+description="Sample Package to Test"
+arch="noarch"
